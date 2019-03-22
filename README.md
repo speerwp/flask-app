@@ -12,5 +12,4 @@ HTML $ CSS
 
 Qualquer dúvida entrar em contato com:
 
-[meu site][www.google.com]
 *speerwp@hotmail.com*
